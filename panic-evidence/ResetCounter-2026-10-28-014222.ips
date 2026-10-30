@@ -1,0 +1,11 @@
+{"os_version":"iPhone OS 27.0.1 (24A446)","bug_type":"115","timestamp":"2026-10-28 01:42:22.00 +0800","name":"Reset count","roots_installed":0,"incident_id":"10FC573E-C11D-45A0-A935-B3FDEC449BF2"}
+Incident Identifier: 10FC573E-C11D-45A0-A935-B3FDEC449BF2
+CrashReporter Key:   34b6ee2a5bc4c16fc5c3d973d9454d83bdfc7eb9
+Date: 2026-10-28 01:42:22.36 +0800
+Reset count: 1
+Boot failure count: 0
+Boot faults: rst wdog,reset_in_1
+Boot stage: 0x0
+Boot app: 1142066410
+socId: 8150
+socRevision: 11
